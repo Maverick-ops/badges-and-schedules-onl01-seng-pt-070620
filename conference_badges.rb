@@ -11,4 +11,6 @@ def batch_badge_creator(attendees)
   badges
 end
 
+def assign_rooms()
+
 # Write your code here.
