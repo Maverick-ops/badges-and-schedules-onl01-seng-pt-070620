@@ -3,7 +3,7 @@ def badge_maker(name)
  
 end
 
-def conference_(attendees)
+def conference_badges(attendees)
   badges = []
   attendees.each do |name|
     badges << ("Hello, my name is #{name}.")
