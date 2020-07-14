@@ -3,7 +3,7 @@ def badge_maker(name)
  
 end
 
-def batch_badge_creator(attendees)
+def conference_(attendees)
   badges = []
   attendees.each do |name|
     badges << ("Hello, my name is #{name}.")
